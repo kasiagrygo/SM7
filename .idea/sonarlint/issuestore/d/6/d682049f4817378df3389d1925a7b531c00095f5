@@ -1,0 +1,9 @@
+
+}
+java:S1450"[Remove the "recyclerView" field and declare it as a local variable in the relevant methods.(¿á© ýÿÿÿÿ8ÿßµù¿1
+{
+java:S1450"YRemove the "sensorList" field and declare it as a local variable in the relevant methods.(ùò©ºüÿÿÿÿ8«”¾ù¿1
+y
+java:S1450"\Remove the "sensorManager" field and declare it as a local variable in the relevant methods.(Þ¬–„8«”¾ù¿1
+ž
+java:S1186?"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¡é††8œàµù¿1

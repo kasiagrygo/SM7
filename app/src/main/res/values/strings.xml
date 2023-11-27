@@ -1,3 +1,17 @@
 <resources>
-    <string name="app_name">SM7</string>
+    <string name="location_text">"Szerokość geograficzna: %1$.4f \n Długość geograficzna: %2$.4f \n Czas: %3tr"</string>
+    <string name="no_location">Brak lokalizacji</string>
+    <string name="service_not_available">Usługa niedostępna</string>
+    <string name="address_text">"Adres: %1$s \n Czas: %2$tr</string>
+    <string name="no_address_found">Adres nie został znaleziony</string>
+
+    <string name="hide_subtitle">Ukryj podtytuł</string>
+    <string name="show_subtitle">Pokaż podtytuł</string>
+    <string name="subtitle_format">Liczba sensorów: %d</string>
+
+    <string name="app_name">SensorApp</string>
+    <string name="sensor_count">Liczba czujników: %d</string>
+    <string name="missing_sensor">Brak czujnika</string>
+    <string name="Light_sensor_label">Czujnik światła\n%f lx</string>
+    <string name="location_permission_denied">Odmowa dostępu do lokalizacji</string>
 </resources>
